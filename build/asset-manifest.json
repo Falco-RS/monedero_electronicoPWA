@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monedero_electronicoPWA/build/static/css/main.18185af0.css",
+    "main.js": "/monedero_electronicoPWA/build/static/js/main.75c67eae.js",
+    "index.html": "/monedero_electronicoPWA/build/index.html",
+    "main.18185af0.css.map": "/monedero_electronicoPWA/build/static/css/main.18185af0.css.map",
+    "main.75c67eae.js.map": "/monedero_electronicoPWA/build/static/js/main.75c67eae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18185af0.css",
+    "static/js/main.75c67eae.js"
+  ]
+}
